@@ -8,3 +8,4 @@ Content of anti-vax conspiracies shifted over time.
 ## Result
 Gathered 8 anti-vax themes. Share of comments discussing each theme did not change much across 2020. Hypothesis doesn't hold.
 ![cluster_share_week](https://github.com/tripartitestruggle/reddit-anti-vax/blob/main/output/images/cluster_share_week.gif?raw=true)
+![cluster_descriptors](https://github.com/tripartitestruggle/reddit-anti-vax/blob/main/output/images/table1.png?raw=true)
